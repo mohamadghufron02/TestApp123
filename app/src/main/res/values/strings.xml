@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Capstone-apps</string>
+    <string name="masuk">Masuk</string>
+    <string name="login_untuk">Login untuk lihat akun kamu yuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="tidak_punya_akun">Tidak punya akun ?</string>
+    <string name="daftar">Daftar</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+    <string name="Register">Register</string>
+</resources>
